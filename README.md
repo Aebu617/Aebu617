@@ -13,4 +13,5 @@ I have a basic sense of Python, and HTML.
 ## Connect with Me-
 
 Instagram - just.aebu
+
 Discord - killer_a70_73141
