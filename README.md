@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Aebu617/Aebu617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abraham, an IHS-Dubai student, Cyber-Security enthusiast and an AI enthusiast.
 
-Here are some ideas to get you started:
+I build whatever I feel like building or solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Windows for both programming and Cybersecurity.
+
+I use Antigravity.
+
+I have a basic sense of Python, and HTML.
+
+## Connect with Me-
+
+Instagram - just.aebu
+Discord - killer_a70_73141
