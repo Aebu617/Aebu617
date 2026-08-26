@@ -2,6 +2,8 @@
 
 I'm Abraham, an IHS-Dubai student, Cyber-Security enthusiast and an AI enthusiast.
 
+I use Ubuntu
+
 I build whatever I feel like building or solving.
 
 I use Windows for both programming and Cybersecurity.
