@@ -6,7 +6,7 @@ I use Ubuntu
 
 I build whatever I feel like building or solving.
 
-I use Windows for programming and Ubuntu Cybersecurity.
+I use Windows for programming and Ubuntu for Cybersecurity.
 
 I use Antigravity, and Codex.
 
